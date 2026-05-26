@@ -1,3 +1,11 @@
+---
+name: production-folder-structure
+description: "Best practices for structuring production-grade Next.js applications with a scalable folder architecture. Use when: setting up new Next.js projects; refactoring existing projects; implementing enterprise standards; improving maintainability and developer experience."
+user-invocable: true
+---
+
+
+
 # Next.js Production Folder Structure Guide
 
 A practical guide to structuring scalable Next.js applications for maintainability, developer experience, and enterprise-grade production systems.

@@ -1,3 +1,8 @@
+---
+name: state-management
+description: "Best practices for managing state in React and Next.js applications, including global state management, server state management with React Query, and architectural patterns for scalable applications."
+user-invocable: true
+---
 # React Query Best Practices
 
 A practical guide to using TanStack Query (React Query) efficiently in production-grade React and Next.js applications.
