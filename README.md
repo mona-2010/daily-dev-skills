@@ -12,6 +12,7 @@ This repository documents practical knowledge gained through building real-world
 * AI Workflows
 * LangChain
 * n8n Automation
+* GitHub 
 
 ---
 
@@ -70,6 +71,7 @@ backend/
 ai-engineering/
 devops/
 system-design/
+github-commands
 ```
 
 ---
